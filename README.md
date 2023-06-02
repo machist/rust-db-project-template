@@ -1,6 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# rust-db-project-template
+A good starting point for a new Rust database project
 
 ## references
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+* [rust-new-project-template](https://github.com/machist/rust-new-project-template)
